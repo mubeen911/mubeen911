@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubeen Ali</h1>
-<h3 align="center">Software Engineering Student | Flutter & ML Enthusiast</h3>
+<h3 align="center">Software Enginere | Flutter Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubeen911&label=Profile%20views&color=0e75b6&style=flat" alt="mubeen911" /> </p>
 
